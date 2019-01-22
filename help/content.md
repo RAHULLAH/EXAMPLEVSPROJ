@@ -3,7 +3,7 @@ Turbot provides enterprise guardrails for Amazon Web Services.
 
 This document outlines the beliefs, models and assumptions Turbot has defined
 to create those guardrails - providing organizations with a working balance
-between agility and compliance. Please see [other help sections](http://help.github.com) for
+between agility and compliance. Please see [other help sections](https://help.github.com) for
 implementation specifics and how to guides.
 
 ## Design Beliefs
@@ -57,17 +57,17 @@ managed by an Application Team.
 The Cluster provides guardrails and accelerated setup for Applications,
 including:
 
-Enterprise policies (e.g. Server hardening, Service availability)
-Best practice settings (e.g. Monitoring)
-Integration points with Enterprise systems (e.g. LDAP, Helpdesk).
-Central administration, access and reporting.
+- Enterprise policies (e.g. Server hardening, Service availability)
+- Best practice settings (e.g. Monitoring)
+- Integration points with Enterprise systems (e.g. LDAP, Helpdesk).
+- Central administration, access and reporting.
 
 While Applications manage their own resources within the Cluster guardrails:
 
-Servers
-Databases
-Access and Permissions
-Self-service administration and reporting.
+- Servers
+- Databases
+- Access and Permissions
+- Self-service administration and reporting.
 
 ## Authentication, Access & Permissions
 ### Authentication
