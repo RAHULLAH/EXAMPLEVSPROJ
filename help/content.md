@@ -57,17 +57,17 @@ managed by an Application Team.
 The Cluster provides guardrails and accelerated setup for Applications,
 including:
 
-- Enterprise policies (e.g. Server hardening, Service availability)
-- Best practice settings (e.g. Monitoring)
-- Integration points with Enterprise systems (e.g. LDAP, Helpdesk).
-- Central administration, access and reporting.
+Enterprise policies (e.g. Server hardening, Service availability)
+Best practice settings (e.g. Monitoring)
+Integration points with Enterprise systems (e.g. LDAP, Helpdesk).
+Central administration, access and reporting.
 
 While Applications manage their own resources within the Cluster guardrails:
 
-- Servers
-- Databases
-- Access and Permissions
-- Self-service administration and reporting.
+Servers
+Databases
+Access and Permissions
+Self-service administration and reporting.
 
 ## Authentication, Access & Permissions
 Authentication
